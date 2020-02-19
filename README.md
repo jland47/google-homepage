@@ -1,0 +1,1 @@
+Building my first webpage, already have learned some valuable skills and knowledge.  The biggest hurdle is learning the termanology and seeing the big picture at the begining.    From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
